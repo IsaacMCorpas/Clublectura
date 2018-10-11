@@ -36,37 +36,37 @@ $wpdb->query($sql);
 
 <div class="form-group mr-sm-3">
                 <label>Nombre:</label>
-                <input type="text" name="nombre" class="form-control" required>
+                <input type="text" name="nombre" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">
                 <label>NIF:</label>
-                <input type="text" name="nif" class="form-control" required>
+                <input type="text" name="nif" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">
                 <label>Direccion:</label>
-                <input type="text" name="direccion" class="form-control" required>
+                <input type="text" name="direccion" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">
                 <label>Email:</label>
-                <input type="text" name="email" class="form-control" required>
+                <input type="text" name="email" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">
                 <label>Web:</label>
-                <input type="text" name="web" class="form-control" required>
+                <input type="text" name="web" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">
                 <label>Telefono:</label>
-                <input type="text" name="telefono" class="form-control" required>
+                <input type="text" name="telefono" class="form-control">
                 </div>
 
                 <div class="form-group mr-sm-3">
                 <label>Licencia:</label>
-                <input type="text" name="licencia" class="form-control" required>
+                <input type="text" name="licencia" class="form-control">
                 </div>
 
 <div class="form-group mr-sm-3">

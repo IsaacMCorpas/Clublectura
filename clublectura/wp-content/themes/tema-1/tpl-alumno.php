@@ -32,15 +32,15 @@ $wpdb->query($sql);
                   action="<?php echo get_home_url(); ?>/?page_id=5">
             <div class="form-group mr-sm-3">
                 <label>Nombre:</label>
-                <input type="text" class="form-control" name="nombre" required>
+                <input type="text" class="form-control" name="nombre">
                 </div>
                 <div class="form-group mr-sm-3">
                 <label>Fecha de Nacimiento:</label>
-                <input type="text" class="form-control" name="fecha_de_nacimiento" required>
+                <input type="text" class="form-control" name="fecha_de_nacimiento">
                 </div>
                 <div class="form-group mr-sm-3">
                 <label>Comentarios:</label>
-                <textarea type="text" class="form-control"  name="comentario" required placeholder="Comenta..."></textarea>
+                <textarea type="text" class="form-control"  name="comentario"></textarea>
                 </div>
                 <div class="form-group mr-sm-3">
                 <input type="submit" value="Enviar">
